@@ -474,7 +474,7 @@ ul.icons {
   bottom: 4em;
   color: rgba(255, 255, 255, 0.75);
   left: 4em;
-  opacity: 0.5;
+  opacity: 0.4;
   position: absolute; }
   #footer .icons {
     margin: 0 0 0.5em 0; }
@@ -495,7 +495,7 @@ ul.icons {
     #footer .copyright a {
       color: inherit; }
   #footer:hover {
-    opacity: 1; }
+    opacity: 0.8; }
   #footer > :last-child {
     margin-bottom: 0; }
   @media screen and (max-width: 1680px) {
